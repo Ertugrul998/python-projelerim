@@ -54,7 +54,7 @@ def alarm_cal():
         subprocess.run([
             "afplay",
             "-v",
-            "2.0",
+            "5.0",
             "/System/Library/Sounds/Funk.aiff"
         ])
 
